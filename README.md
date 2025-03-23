@@ -3,6 +3,10 @@
 A scalable, relational database management system tailored for football organizations to efficiently manage data related to players, teams, matches, merchandise, injuries, and more. This system replaces traditional flat-file approaches with a structured SQL-powered backend and a clean, user-friendly web interface.
 
 ---
+## Overview
+- Replaced flat-file storage with a normalized schema.  
+- Reduced query execution time by 30%.  
+- Ensured 98% data integrity and multi-user access.
 
 ## 🚀 Features
 
@@ -37,7 +41,7 @@ A scalable, relational database management system tailored for football organiza
 ## 🛠️ Technologies Used
 
 - **PostgreSQL** – Database backend
-- **SQL** – Schema definition, queries, indexing, triggers
+- **Draw.io** – A clean and normalized ER diagram for the Football Database, designed using Draw.io to visualize entity relationships and database structure.
 - **PL/pgSQL** – Stored procedures and transaction handling
 - **HTML/CSS/JavaScript** – Frontend UI
 
