@@ -41,7 +41,8 @@ A scalable, relational database management system tailored for football organiza
 ## 🛠️ Technologies Used
 
 - **PostgreSQL** – Database backend
-- **Draw.io** – A clean and normalized ER diagram for the Football Database, designed using Draw.io to visualize entity relationships and database structure.
+- **Draw.io** – A clean and normalized ER diagram for the Football Database, designed using Draw.io 
+                to visualize entity relationships and database structure.
 - **PL/pgSQL** – Stored procedures and transaction handling
 - **HTML/CSS/JavaScript** – Frontend UI
 
