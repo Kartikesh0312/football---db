@@ -1,0 +1,21 @@
+injury_id,player_id,injury_description,injury_date,recovery_time
+1,18,Pulled Quad,1998-01-06,9
+2,2,Ankle Sprain,1984-06-08,6
+3,3,Neck Strain,2015-06-24,3
+4,17,Rib Contusion,2014-11-08,5
+5,46,Torn ACL,2010-08-19,3
+6,24,Calf Strain,2019-08-15,4
+7,13,Groin Strain,2018-05-02,5
+8,9,Knee Injury,2020-02-11,12
+9,10,Shin Splints,2005-08-17,8
+10,6,Facial Laceration,1987-12-28,8
+11,5,Shin Splints,1997-07-27,1
+12,11,Neck Strain,1988-03-16,9
+13,4,Rib Contusion,2005-09-12,7
+14,12,Plantar Fasciitis,2004-11-10,6
+15,47,Turf Toe,2001-08-02,1
+16,8,Turf Toe,1991-06-21,1
+17,28,Torn ACL,1986-06-20,1
+18,85,Groin Strain,1992-12-04,4
+19,23,Pulled Quad,2004-09-01,10
+20,1,Torn ACL,2009-11-12,4

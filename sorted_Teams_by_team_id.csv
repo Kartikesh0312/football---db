@@ -1,0 +1,101 @@
+team_id,team_name,established_year,coach_name,home_city
+0,Sharks,1966,Welbie Santacrole,Malasugui
+1,Lions,1966,Rriocard Warmisham,Guanyinsi
+2,Tigers,1999,Rebekkah Hansen,Igoumenítsa
+3,Thunder,1980,Juliet Desorts,Manoel Urbano
+4,Tigers,1992,Dinny Tapner,Oslo
+5,Lions,1996,Carlyn Kaaskooper,Urek-urek
+6,Wolves,1972,Rozalin Allmond,Yuxin
+7,Eagles,1955,Lorelei Pallis,Hougang
+8,Bears,1980,Ronny Dewerson,Kushk
+9,Eagles,2002,Frederick Malpass,Avellaneda
+10,Lions,1955,Jaquelin Bass,Driyorejo
+11,Eagles,2019,Peri Westphalen,Jundian
+12,Bears,1975,Innis Izkoveski,Haikoudajie
+13,Tigers,1955,Bettye Berceros,Nová Role
+14,Thunder,1994,Edik Ridsdole,Bihać
+15,Falcons,1958,Danit Stave,Strumica
+16,Bears,2014,Anica Kinglake,De la Paz
+17,Dragons,1984,Marjory Halford,Arcangel
+18,Dragons,1952,Lowe Sharply,Keroka
+19,Panthers,1973,Vi Ellerey,Stubno
+20,Wolves,1993,Bertrando Nudds,Pedro Sánchez
+21,Falcons,2005,Antoni Bilham,Dolna Banjica
+22,Wolves,1945,Lemar Meconi,Kętrzyn
+23,Thunder,2014,Sigmund Armsden,Petrovo-Dal’neye
+24,Dragons,1973,Jewel Edgson,Changting
+25,Bears,1969,Anitra Sharply,Kyosai
+26,Panthers,1994,Debra Bynert,Banjar Bali
+27,Wolves,2021,Nessi Grimmolby,Erhe
+28,Panthers,1998,Dory Scarbarrow,Juai
+29,Wolves,1998,Patti Fisk,Stockholm
+30,Thunder,1998,Humphrey Hayfield,Diavatá
+31,Panthers,1966,Dora Briance,Charikar
+32,Eagles,1970,Cordell Domenget,Garunggang
+33,Thunder,1968,Salomi Cheek,Sukasenang
+34,Sharks,1982,Lexine Doylend,Orós
+35,Panthers,1986,Lanita Pocklington,Changtang
+36,Bears,2009,Glynnis Hagston,Zaokskiy
+37,Eagles,1949,Kingsly Scheu,Muranovo
+38,Lions,1976,Catlin Wedgbrow,Pavlodol’skaya
+39,Falcons,1987,Winonah Lisciandri,Gubengairlangga
+40,Tigers,2018,Samara Diviney,Embarcación
+41,Tigers,1982,Sayer Crellim,Agbani
+42,Tigers,2012,Glynis Boadby,Shicang
+43,Sharks,1995,Jamison Birchwood,Chai Nat
+44,Tigers,1941,Therese Farmloe,Baykit
+45,Lions,1969,Addie Rolls,Misungwi
+46,Eagles,1986,Gigi Gabb,Patemon
+47,Bears,1977,Ernestus Harral,Veracruz
+48,Dragons,1949,Nikki Ossipenko,Sasolburg
+49,Panthers,2014,Fransisco Mulvy,Na Tan
+50,Bears,2008,Charita Sherrocks,Phumĭ Véal Srê
+51,Thunder,1992,Finley Batrim,Niaojin
+52,Bears,1955,Rochette Andrejevic,Sanlidian
+53,Panthers,2007,Dewey Dubble,Aracruz
+54,Tigers,1971,Jeromy Ebbotts,Perelhal
+55,Tigers,2014,Billie Fancutt,Phú Vang
+56,Thunder,1961,Bernie Pearce,Andir
+57,Wolves,1982,Weber Wheildon,Point Hill
+58,Tigers,1942,Lu Michie,Zhangjiapan
+59,Sharks,2002,Alika Mullan,Cachoeirinha
+60,Tigers,1970,Marika Gookey,Jinjiang
+61,Eagles,2001,Charles Sausman,Tundagan
+62,Thunder,1963,Morrie Band,Al Wardānīn
+63,Thunder,1954,Danya Edgecumbe,Dhī Nā‘im
+64,Panthers,1965,Staci Corpe,Washington
+65,Bears,2011,Alys Eteen,Boro Utara
+66,Falcons,1970,Felice Pletts,Quinta
+67,Lions,2002,Boote Clifton,Záhorovice
+68,Eagles,2019,Lorettalorna Bourgeois,Xincheng
+69,Wolves,1982,Mignon Howsam,Sidenreng
+70,Thunder,1991,Quintina Wane,Graneros
+71,Dragons,1991,Ward Schoenfisch,Borzna
+72,Bears,1986,Melisent Weatherley,Guará
+73,Sharks,1965,Suzy Tilsley,Sakura
+74,Sharks,1970,Kay Jilliss,Pueai Noi
+75,Dragons,1975,Alex Tilbey,Igurusi
+76,Thunder,1947,Marleen Sheaber,Nakhon Pathom
+77,Lions,1953,Marilee Staddom,Mirovka
+78,Thunder,1946,Ezechiel Griffith,Luleå
+79,Panthers,1944,Sheelah Kik,Dushan
+80,Wolves,1964,Ruttger Furmedge,Margoyoso
+81,Falcons,1959,Kathi Mereweather,Maebashi-shi
+82,Panthers,1948,Wilfrid Lissaman,Jackson
+83,Lions,1997,Lyman Kach,Janagdong
+84,Bears,1992,Delores Mordue,Sam Roi Yot
+85,Eagles,1976,Brandais Gillman,Kamionka Wielka
+86,Thunder,1956,Carmella Jolland,Opatowiec
+87,Sharks,1946,Linnie Lettson,Sagae
+88,Tigers,2002,Quintin Pike,Plumbangan
+89,Sharks,1946,Rosemonde Pohl,Chennevières-sur-Marne
+90,Panthers,1979,Collette Iacoboni,Kabakovo
+91,Wolves,1984,Laryssa De Hooge,Marzhing
+92,Falcons,1942,Estele Gebhard,Tanjung Raja
+93,Panthers,1963,Fletch Piser,Carora
+94,Falcons,2010,Ancell Nyles,Tanlin
+95,Lions,1955,Esma Kinlock,Xiangjiazhai
+96,Falcons,1995,Pamelina McKeurtan,Shāhīn Dezh
+97,Falcons,1944,Pippa Mussington,Brusque
+98,Tigers,2007,Lindy Spittle,Staré Město
+99,Panthers,1951,Mill Blunderfield,Iberia

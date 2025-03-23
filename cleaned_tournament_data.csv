@@ -1,0 +1,101 @@
+tournament_Id,tournament_name,tournament_start_date,tournament_end_date,winner_team_id
+1,Champion's Cup,2014-08-19,2007-08-26,5
+2,Master's Duel,2018-06-07,2012-02-21,5
+3,Master's Duel,2017-04-22,2017-06-07,2
+4,Epic Clash Challenge,1998-07-02,2013-08-05,2
+5,Elite Championship Challenge,2003-09-11,1996-01-15,6
+6,Supreme Showdown Series,2014-08-06,1980-11-20,2
+7,Battle Royale Bash,1991-02-27,1982-11-11,10
+8,Epic Clash Challenge,1996-09-14,2001-12-08,7
+9,Champion's Cup,2009-05-03,1993-01-09,4
+10,Epic Clash Challenge,2008-09-04,2020-11-21,10
+11,Gladiator Games,2012-02-12,2009-06-25,8
+12,Gladiator Games,1988-12-23,2024-03-01,9
+13,Ultimate Showdown,2006-10-06,2010-02-12,7
+14,Ultimate Warrior Showdown,2009-11-15,1980-08-06,5
+15,Grand Arena Showdown,2024-03-26,1980-10-09,1
+16,Elite Championship Challenge,2011-09-22,2023-11-29,2
+17,Ultimate Showdown,2000-09-23,2013-05-26,10
+18,Grand Arena Showdown,2002-11-03,1997-04-18,4
+19,Gladiator Games,2006-05-04,1986-09-13,6
+20,Gladiator Games,2001-06-02,1981-06-22,1
+21,Ultimate Showdown,2024-07-31,2022-04-27,7
+22,Legendary Battle Royale,1990-07-14,2007-01-10,8
+23,Legendary Battle Royale,2016-01-03,2001-04-25,4
+24,Epic Clash Challenge,1980-05-27,1984-07-26,4
+25,Grand Arena Showdown,1982-12-22,1986-05-21,7
+26,Ultimate Showdown,1981-07-14,1983-11-01,6
+27,Elite Championship Challenge,2017-10-15,2008-01-15,2
+28,Battle Royale Bash,1988-09-13,1991-01-16,6
+29,Grand Arena Showdown,1980-11-15,2008-07-16,1
+30,Gladiator Games,1991-09-17,2003-01-17,2
+31,Ultimate Warrior Showdown,2010-01-19,2016-01-01,3
+32,Ultimate Showdown,2023-06-15,2011-03-31,2
+33,Champion's Cup,2023-05-21,2010-06-12,2
+34,Epic Clash Challenge,1988-07-26,2019-01-01,8
+35,Ultimate Showdown,2021-12-27,1991-11-28,4
+36,Grand Arena Showdown,1993-03-15,2004-02-04,6
+37,Legendary Battle Royale,2015-08-10,2004-02-11,10
+38,Ultimate Showdown,2014-05-29,1981-12-31,5
+39,Epic Clash Challenge,2022-09-26,2005-08-08,2
+40,Gladiator Games,2013-01-24,2024-08-15,3
+41,Master's Duel,2003-02-15,2022-06-13,5
+42,Supreme Showdown Series,1997-11-01,2018-12-02,8
+43,Supreme Showdown Series,1997-10-04,1986-04-06,5
+44,Gladiator Games,2009-05-15,2005-03-10,4
+45,Ultimate Showdown,1995-08-16,2011-02-03,2
+46,Legendary Battle Royale,2008-04-12,2022-12-09,8
+47,Ultimate Showdown,2019-05-02,1998-02-22,7
+48,Battle Royale Bash,1982-05-04,2022-11-17,6
+49,Champion's Cup,1981-11-16,2023-05-25,6
+50,Battle Royale Bash,1991-02-20,1994-05-23,1
+51,Master's Duel,2008-01-28,2010-05-14,1
+52,Grand Arena Showdown,1982-06-15,1986-10-19,1
+53,Champion's Cup,2024-01-17,2014-02-09,9
+54,Supreme Showdown Series,2019-04-18,2021-03-13,1
+55,Supreme Showdown Series,2018-02-20,1995-03-29,3
+56,Epic Clash Challenge,1988-06-12,2014-11-04,3
+57,Ultimate Showdown,1986-10-16,1997-08-08,5
+58,Champion's Cup,2008-03-23,1986-05-17,9
+59,Master's Duel,2013-01-31,2019-03-31,10
+60,Grand Arena Showdown,2014-02-14,1987-02-02,6
+61,Battle Royale Bash,1987-01-02,1980-09-10,7
+62,Epic Clash Challenge,2019-09-24,2002-06-05,8
+63,Grand Arena Showdown,1996-06-26,2015-01-11,7
+64,Gladiator Games,2011-11-09,2017-09-27,3
+65,Supreme Showdown Series,2019-04-18,1982-02-23,6
+66,Champion's Cup,2018-03-23,1991-03-13,1
+67,Legendary Battle Royale,2012-07-29,2012-10-01,10
+68,Epic Clash Challenge,1988-02-01,1991-05-29,6
+69,Supreme Showdown Series,2009-01-10,1982-03-06,7
+70,Master's Duel,2006-08-09,2011-08-01,5
+71,Ultimate Warrior Showdown,1998-02-25,2001-07-01,2
+72,Master's Duel,1997-04-01,2023-03-15,4
+73,Battle Royale Bash,1989-03-21,2002-12-08,6
+74,Ultimate Showdown,1996-06-13,2006-08-31,5
+75,Epic Clash Challenge,2020-06-11,2000-08-23,6
+76,Supreme Showdown Series,2014-12-04,2018-01-05,1
+77,Supreme Showdown Series,2013-09-05,2003-11-17,3
+78,Elite Championship Challenge,1992-06-07,2023-02-28,1
+79,Battle Royale Bash,2007-03-09,1999-09-23,2
+80,Legendary Battle Royale,2007-08-05,1986-01-27,3
+81,Ultimate Showdown,2007-06-12,2010-03-26,3
+82,Champion's Cup,1988-02-23,2007-10-06,7
+83,Supreme Showdown Series,2006-05-28,2013-07-03,5
+84,Ultimate Showdown,2000-11-22,1999-10-04,10
+85,Ultimate Warrior Showdown,1984-06-08,2013-05-12,6
+86,Gladiator Games,1997-05-24,1984-04-02,7
+87,Champion's Cup,2019-08-02,2011-04-12,10
+88,Gladiator Games,1986-05-13,1985-05-18,3
+89,Battle Royale Bash,2007-09-01,1988-03-04,4
+90,Epic Clash Challenge,1996-10-12,2005-12-15,3
+91,Gladiator Games,2020-11-11,2013-09-29,2
+92,Gladiator Games,2024-01-06,1998-05-25,2
+93,Ultimate Showdown,2003-04-19,2001-04-24,3
+94,Supreme Showdown Series,2011-07-08,1982-10-10,8
+95,Legendary Battle Royale,2023-01-01,2010-01-09,2
+96,Mega Masters Tournament,1985-10-08,2019-09-04,4
+97,Ultimate Warrior Showdown,1995-01-19,2012-09-24,1
+98,Gladiator Games,1986-04-12,2012-11-12,9
+99,Ultimate Showdown,2015-01-10,1983-01-12,5
+100,Supreme Showdown Series,2018-02-17,1999-08-02,10
